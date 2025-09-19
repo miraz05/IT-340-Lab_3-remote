@@ -1,0 +1,31 @@
+commit 096ecee23cbddeec5cfc04dda8b60314d21cfd59
+Author: Zach <psm6@njit.edu>
+Date:   Fri Sep 19 11:15:47 2025 -0400
+
+    Revert "added new text file"
+    
+    This reverts commit 6e846e9a8a1aab4a883cfddfa2d5672718ee38ad.
+
+commit 6e846e9a8a1aab4a883cfddfa2d5672718ee38ad
+Author: Zach <psm6@njit.edu>
+Date:   Fri Sep 19 11:14:41 2025 -0400
+
+    added new text file
+
+commit b0d199468ab665d70a6552b418f84c4272da1a7e
+Author: Zach <psm6@njit.edu>
+Date:   Fri Sep 19 11:13:15 2025 -0400
+
+    added second comment to os-release
+
+commit 6a8ff64df3c4ceb70d1bdf88dd01b6b5276e44ce
+Author: Zach <psm6@njit.edu>
+Date:   Fri Sep 19 10:53:01 2025 -0400
+
+    os-release edited
+
+commit f4297ae7835c1690fca8d5595ab11ca760b6847f
+Author: Zach <psm6@njit.edu>
+Date:   Fri Sep 19 10:45:44 2025 -0400
+
+    IT340 Initial starting point of repo
